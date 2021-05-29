@@ -1,0 +1,14 @@
+.duplicate {
+	border: 3px solid red;
+    padding: 10px 15px 0;
+    font-size: 14px;
+}
+
+.duplicate p {
+	margin: 0;
+}
+
+.duplicate_title {
+	color: red;
+	font-size: 16px;
+}
